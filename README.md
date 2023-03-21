@@ -13,3 +13,11 @@ Javascript coding
 
 Here all my javscript codes and my learning jorney of js will be shown
 
+## Authors
+ 
+ - **Yuvraj Singh**
+
+## Acknowledgements
+ 
+ - **Gaurav SIngh**
+
