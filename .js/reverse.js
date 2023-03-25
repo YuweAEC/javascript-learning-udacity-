@@ -5,5 +5,5 @@ function rev(w)
     {
         revw = revw.concat(w[i]);
     }
-    
+    return revw;
 }
