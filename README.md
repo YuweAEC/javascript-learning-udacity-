@@ -11,7 +11,10 @@ Javascript coding
 
 ## Introduction
 
-Here all my javscript codes and my learning jorney of js will be shown
+Here all my javscript codes and my learning jorney of js will be shown 
+>
+>>refer the following list to get familiar with arrangements of my files and folders
+>> 1. dev-tools.txt
 
 ## Authors
  
