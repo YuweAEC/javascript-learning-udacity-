@@ -1,0 +1,6 @@
+In this we all will see how to write our first program in javascript
+
+  # using console.log --
+
+   and loops ..
+
