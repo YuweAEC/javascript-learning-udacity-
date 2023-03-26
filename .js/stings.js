@@ -1,3 +1,3 @@
 // testing string concatenation
 
-console.log(" Hello ! "+" Yuvraj Singh ")
+console.log(" Hello!"+"Yuvraj Singh ")
