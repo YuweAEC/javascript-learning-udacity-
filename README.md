@@ -1,4 +1,4 @@
-# JAVASCRIPT :- CODES
+# JAVASCRIPT :- CODES and Texts
  
  - Title
  - Introduction
