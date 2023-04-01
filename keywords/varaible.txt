@@ -3,4 +3,10 @@ using var keyword to create a variables
 let we have a variables name x 
 so what our programing do it simply assign some values that we put over that variable x 
 
-if we say or put the value
+if we say or put the value that x=5
+and then assign new variable name y where we put the value y=x+5.
+
+so here if want output from the system then it will evaluted the variables and calculate it as y=10 ...
+
+
+so the main cause of this example is to show that how variables work and what the logic behind it 
