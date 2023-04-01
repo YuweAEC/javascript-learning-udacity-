@@ -6,3 +6,6 @@ var name = yuvi;
 var age = 20;
 // now we assigned the name and the age into the variable 
 age = age + 1;
+/**
+ * but when yuvi become 21cyears old then we changed our stored variable by adding 1 to the stored data in age 
+ */
