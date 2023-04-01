@@ -1,1 +1,6 @@
 using var keyword to create a variables
+
+let we have a variables name x 
+so what our programing do it simply assign some values that we put over that variable x 
+
+if we say or put the value
