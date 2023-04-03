@@ -10,3 +10,6 @@ so here if want output from the system then it will evaluted the variables and c
 
 
 so the main cause of this example is to show that how variables work and what the logic behind it 
+
+
+In javascript the variables store data as you have seen the way it stored 5 in variable x..
