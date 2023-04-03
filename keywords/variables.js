@@ -11,5 +11,5 @@ age = age + 1;
 /**
  * but when yuvi become 21cyears old then we changed our stored variable by adding 1 to the stored data in age 
  */
-var greetings = Hello;
-greeting + "hello world" ;
+var greetings = "Hello" ;
+greetings + "world !" ;
