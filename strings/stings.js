@@ -2,4 +2,5 @@
 
 console.log(" Hello! "+" Yuvraj Singh ")
 
-"james"[0]
+console.log("james"[1])
+
