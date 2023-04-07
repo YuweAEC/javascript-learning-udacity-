@@ -13,3 +13,14 @@ so the main cause of this example is to show that how variables work and what th
 
 
 In javascript the variables store data as you have seen the way it stored 5 in variable x..
+
+
+## question answer in text form for reference
+
+- Your code should have a variable `celsius`
+- Your code should have a variable `fahrenheit`
+- Your variable `celsius` should equal `12`
+- Your variable `fahrenheit` should equal `53.6`
+- Your variable `fahrenheit` declaration should use the `celsius` variable
+- Your variable `fahrenheit` should be the correct formula
+- Your code should log the `fahrenheit` variable
