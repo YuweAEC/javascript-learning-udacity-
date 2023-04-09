@@ -7,3 +7,4 @@ if (haveEnrolledInCourse){
 }
 else
 	console.log("go to hell")// now the output will shoe else part because the statment is false
+
