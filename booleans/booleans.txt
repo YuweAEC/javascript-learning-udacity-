@@ -1,0 +1,4 @@
+A boolean variable can take either of two values - true or false
+
+booleans can only have yes or no or in our language it is true or false.
+
