@@ -17,8 +17,10 @@ Here all my javscript codes and my learning jorney of js will be shown
 >> 1. dev-tools.txt
 >> 2. data-types.txt
 >> 3. console-log.txt
->> 4. 
-
+>>> 4. strings
+> - strings.txt
+> - strings.js
+ 
 ## Authors
  
  - **Yuvraj Singh**
