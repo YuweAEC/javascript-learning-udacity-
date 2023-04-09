@@ -1,6 +1,6 @@
 var studentName = "Yuvi";
-var haveEnrolledInCourse = true;
-var haveCompletedTheCourse = false;
+var haveEnrolledInCourse = false;
+var haveCompletedTheCourse = true;
 
 if (haveEnrolledInCourse){ 
 	console.log("Welcome "+studentName+" to Udacity!"); // Will run only if haveEnrolledInCourse is true
