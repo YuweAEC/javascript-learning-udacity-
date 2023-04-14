@@ -1,3 +1,0 @@
-text file for strings.js file
-
-To access an individual character, you can use the character's location in the string, called its index.
