@@ -21,7 +21,7 @@ Here all my javscript codes and my learning jorney of js will be shown
 >> - strings.txt
 >> - strings.js
 >>> 5. keywords 
->> 
+>> - keywords.txt
 
 ## Authors 
  
