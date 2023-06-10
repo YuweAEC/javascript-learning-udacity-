@@ -5,4 +5,8 @@ accountCity = "CRJ"
 
 // accountId = 8
 
+accountEmail = "uv@uv.com"
+accountPassword = "12"
+accountCity = "Bihar"
+
 console.log(accountId);
