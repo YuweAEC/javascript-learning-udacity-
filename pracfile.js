@@ -3,6 +3,6 @@ let accountEmail = "yuvrajsingh@reediff.com"
 var accountPassword = "uv"
 accountCity = "CRJ"
 
-accountId = 8
+// accountId = 8
 
 console.log(accountId);
