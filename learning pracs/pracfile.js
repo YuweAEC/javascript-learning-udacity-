@@ -2,6 +2,7 @@ const accountId = 622018
 let accountEmail = "yuvrajsingh@reediff.com"
 var accountPassword = "uv"
 accountCity = "CRJ"
+let accountState;
 
 // accountId = 8
 
@@ -16,4 +17,4 @@ console.log(accountId);
  * because of the issue in block scope and functional scope
  */
 
-console.table([accountEmail,accountId,accountCity,accountPassword])
+console.table([accountEmail, accountId, accountCity, accountPassword, accountState])
