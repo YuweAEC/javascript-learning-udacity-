@@ -31,5 +31,5 @@ var tip = 8; // uses lowercase if the variable name is one word
 var celsius = 12;
 var fahrenheit =(celsius*1.8+32) /* convert celsius to fahrenheit here */
 
-console.log(fahrenheit  /* print out result here */);
+console.log(fahrenheit)// print out result here;
 
