@@ -17,4 +17,3 @@ else
 			console.log("This statement will NEVER execute because conditional is set to 0 i.e., false");
 	}
 
-	
