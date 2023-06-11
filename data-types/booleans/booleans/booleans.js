@@ -5,6 +5,7 @@ var haveCompletedTheCourse = true;
 if (haveEnrolledInCourse){ 
 	console.log("Welcome "+Yuvraj+" to Udacity!"); // Will run only if haveEnrolledInCourse is true
 }
+
 else
 	console.log("Its your loss")// now the output will shoe else part because the statment is false
 
