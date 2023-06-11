@@ -9,8 +9,6 @@ if (haveEnrolledInCourse){
 else
 	console.log("Its your loss")// now the output will shoe else part because the statment is false
 
-
-
 	if(1){
 		console.log("This statement will always execute because conditional is set to 1 i.e., true");
 	}
