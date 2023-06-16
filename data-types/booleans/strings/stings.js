@@ -14,4 +14,5 @@ name[0];
  * practising the newline and gap code characters in strings
  */
 
-console.log("Yuvraj is \"bolu boi\" \t \n \t and \n \t we all know he can be clever in the time of need")
+console.log("Yuvraj is \"bolu boi\" \t \n \t and \n \t can be clever at the time of need")
+
