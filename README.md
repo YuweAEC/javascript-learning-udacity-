@@ -1,37 +1,36 @@
-# JAVASCRIPT :- CODES and Texts
- 
- - Title
- - Introduction
- - Authors
- - Acknowledgements
+# JavaScript: Codes and Texts
+
+## Table of Contents
+
+- [Title](#title)
+- [Introduction](#introduction)
+- [Authors](#authors)
+- [Acknowledgements](#acknowledgements)
 
 ## Title
 
-Javascript coding
+**JavaScript Coding**
 
 ## Introduction
 
-Here all my javscript codes and my learning jorney of js will be shown 
->
->>refer the following list to get familiar with arrangements of my files and folders
->> 1. dev-tools.txt
->> 2. data-types.txt
->> 3. console-log.txt
->>> 4. strings
->> - strings.txt
->> - strings.js
->>> 5. keywords 
->> - keywords.txt
->> - keywords.js
->> 
+Welcome to my JavaScript coding repository! This is where I document my learning journey in JavaScript, showcasing various codes and insights.
 
+Refer to the following list to familiarize yourself with the organization of files and folders:
 
+1. `dev-tools.txt`
+2. `data-types.txt`
+3. `console-log.txt`
+   1. `strings`
+      - `strings.txt`
+      - `strings.js`
+   2. `keywords`
+      - `keywords.txt`
+      - `keywords.js`
 
-## Authors 
- 
- - **Yuvraj Singh**
+## Authors
+
+- **Yuvraj Singh**
 
 ## Acknowledgements
- 
- - **Gaurav Singh**
 
+- **Gaurav Singh**
